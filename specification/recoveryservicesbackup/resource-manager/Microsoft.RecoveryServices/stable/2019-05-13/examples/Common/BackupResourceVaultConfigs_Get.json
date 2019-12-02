@@ -1,14 +1,14 @@
 {
   "parameters": {
     "subscriptionId": "00000000-0000-0000-0000-000000000000",
-    "resourceGroupName": "SwaggerTestRg",
+    "resourceGroupName": "SwaggerTestRg1",
     "vaultName": "SwaggerTest",
     "api-version": "2019-05-13"
   },
   "responses": {
     "200": {
       "body": {
-        "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/SwaggerTestRg/providers/Microsoft.RecoveryServices/vaults/SwaggerTest/backupconfig/vaultconfig",
+        "id": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/SwaggerTestRg1/providers/Microsoft.RecoveryServices/vaults/SwaggerTest/backupconfig/vaultconfig",
         "name": "vaultconfig",
         "type": "Microsoft.RecoveryServices/vaults/backupconfig",
         "properties": {
